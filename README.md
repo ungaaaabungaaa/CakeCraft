@@ -1,5 +1,6 @@
-# CakeGPT
-CakeGPT - Diffusion model to generate Cakes for Inspirational Baking
+# CakeCraft 
+### Shape Your Sweet Dream
+CakeCradt  - Diffusion model to generate Cakes for Inspirational Baking 
 ## Concept Design 
 ![Concept Design](https://i.imgur.com/c6nWtOE.png)
 ## Responsive Design Layout
